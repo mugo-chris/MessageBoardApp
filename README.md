@@ -6,7 +6,7 @@ This is the app that I developed in my first stages of learning **django framewo
 -[Configuration](#configuration)
 
 ## Installation
-```bash
+```python
 python -m venv .env
 .env\Scripts\Activate.ps1
 python -m pip install django
